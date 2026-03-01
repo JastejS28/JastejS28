@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jastej Singh</h1>
 <h3 align="center">A Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **SyncSpace**
 
-- 🌱 I’m currently learning **Next.js, Postgres**
+- 🌱 Exploring AI ML **
 
 - 📫 How to reach me **jastej28.singh@gmail.com**
 
