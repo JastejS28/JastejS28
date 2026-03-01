@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack developer from India</h3>
 
 
-- 🌱 Exploring AI ML **
+- 🌱 Exploring AI ML 
 
 - 📫 How to reach me **jastej28.singh@gmail.com**
 
