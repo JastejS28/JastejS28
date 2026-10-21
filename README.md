@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jastej Singh</h1>
-<h3 align="center">A Full-Stack developer from India</h3>
+<h1 align="center">Hi 👋, Jastej Singh here</h1>
+<h3 align="center">An AI Engineer from India</h3>
 
 
-- 🌱 Exploring AI ML 
+- 🌱 Building Agentic Systems
 
 - 📫 How to reach me **jastej28.singh@gmail.com**
 
